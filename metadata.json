@@ -1,0 +1,10 @@
+{
+  "name": "Remix: Emergency Weather \u0026 Shelter Aid",
+  "description": "Immediate rain alerts, emergency shelter finder, food and clothing aid coordination, and AI crisis assistance for displaced communities in Pakistan.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
